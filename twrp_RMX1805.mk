@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/oppo/RMX1805/device.mk)
 
 PRODUCT_DEVICE := RMX1805
-PRODUCT_NAME := omni_RMX1805
+PRODUCT_NAME := twrp_RMX1805
 PRODUCT_BRAND := Oppo
 PRODUCT_MODEL := Realme 2
 PRODUCT_MANUFACTURER := oppo
